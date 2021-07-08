@@ -6,6 +6,7 @@ from google_play_scraper import app
 import re
 import string
 import unicodedata
+import nltk
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 
