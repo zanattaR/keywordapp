@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+sklearn
+pillow
+nltk
+google_play_scraper
