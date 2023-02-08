@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-sklearn
+scikit-learn
 pillow
 nltk
 google_play_scraper
